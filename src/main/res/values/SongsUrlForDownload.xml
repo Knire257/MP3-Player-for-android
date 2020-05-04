@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="urlSongsForDownload">
+        <item>http://ncs.io/Cyberpunk</item>
+        <item>http://ncs.io/StockholmLights</item>
+        <item>http://ncs.io/rgsupersonic</item>
+        <item>https://soundcloud.com/vexento/vexento-we-are-one</item>
+    </string-array>
+</resources>

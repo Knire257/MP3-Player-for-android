@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MP3 Player</string>
+    <string name="playMusicButton">PLAY MUSIC</string>
+    <string name="downloadMusicButton">DOWNLOAD THE SONGS</string>
+    <string name="doNotTouchButton">DO NOT TOUCH ME</string>
+    <string name="songsString">SONGS</string>
+    <string name="creditsString">TAP HERE TO SEE THE CREDITS</string>
+    <string name="creditsTitle">CREDITS</string>
+    <string name="loopString">"Loop    "</string>
+    <string name="errorText">"Something went wrong. Try again"</string>
+    <string name="downloadActivityText">Select the song you want to download, this will redirect you to the page of the author.\n        Not every song is available to download, but you can go to the original YouTube video by going to the credits of the songs.</string>
+    <string name="errorOpeningBrowser">It seems like you do not have a web browser</string>
+    <string name="oneTouch">WHY DID YOU TOUCH ME? :(</string>
+    <string name="twoTouches">DON\'T DO IT :(</string>
+    <string name="threeTouches">STOP IT! >:(</string>
+    <string name="fourTouches"><![CDATA[I SAID… STOP IT! D:<]]></string>
+    <string name="fiveTouches">THAT´S IT… I\'M OUTTA HERE!</string>
+</resources>

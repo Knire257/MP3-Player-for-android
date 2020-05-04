@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="SongsForDownload">
+        <item>Max Brhon - Cyberpunk</item>
+        <item>Diviners - Stockholm Lights</item>
+        <item>Rob Gasser - Supersonic</item>
+        <item>Vexento - We are one</item>
+    </string-array>
+</resources>

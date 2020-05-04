@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MP3 Player</string>
+    <string name="playMusicButton">REPRODUCIR MÚSICA</string>
+    <string name="downloadMusicButton">DESCARGAR LAS CANCIONES</string>
+    <string name="doNotTouchButton">NO ME TOQUES</string>
+    <string name="songsString">CANCIONES</string>
+    <string name="creditsString">TOCA AQUÍ PARA VER LOS CRÉDITOS</string>
+    <string name="creditsTitle">CRÉDITOS</string>
+    <string name="loopString">"BUCLE  "</string>
+    <string name="errorText">Algo salió mal. Intentalo de nuevo</string>
+    <string name="errorOpeningBrowser">Al parecer no tienes un navegador web</string>
+    <string name="oneTouch">¿POR QUÉ ME TOCASTE? :(</string>
+    <string name="twoTouches">NO LO HAGAS :(</string>
+    <string name="threeTouches">¡PARA! >:(</string>
+    <string name="fourTouches">¡TE LO DIJE... PARA!</string>
+    <string name="fiveTouches">ME HARTÉ... ¡ME LARGO DE AQUÍ!</string>
+    <string name="downloadActivityText">Selecciona la canción que quieras descargar, eso te redirigirá a la página del autor.\nNo todas las canciones están disponibles para ser descargadas, pero puedes ir al vídeo original de YouTube desde el apartado de créditos de las canciones</string>
+</resources>
